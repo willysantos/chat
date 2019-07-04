@@ -1,0 +1,13 @@
+{
+    "name": "williams/chat-vivo",
+    "description": "chat en vivo",
+    "authors": [
+        {
+            "name": "williams",
+            "email": "willydasanez@gmail.com"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.1"
+    }
+}
